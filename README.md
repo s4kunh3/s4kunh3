@@ -12,8 +12,12 @@ My main objective is to explore different branches of programming to find my nic
 
 ### ⚡ Some websites im in for learning and fun
 
-[![Codewars](https://github.r2v.ch/codewars?user=s4kunh3&stroke=%23BB432C)](https://www.codewars.com/users/s4kunh3)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Sars_25)](https://leetcode.com/Sars_25)
+<a href="https://www.codewars.com/users/s4kunh3" target="_blank">
+  <img src="https://github.r2v.ch/codewars?user=s4kunh3&stroke=%23BB432C" alt="Codewars">
+</a>
+<a href="https://leetcode.com/Sars_25" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/Sars_25" alt="Leetcode Stats">
+</a>
 
 ## Get in Touch
 Feel free to reach out if you have any questions, suggestions, or just want to takl!
