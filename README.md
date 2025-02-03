@@ -12,7 +12,7 @@ My main objective is to explore different branches of programming to find my nic
 
 ### ⚡ Some websites im in for learning and fun
 
-![Codewars](https://github.r2v.ch/codewars?user=s4kunh3&stroke=%23BB432C)
+[![Codewars](https://github.r2v.ch/codewars?user=s4kunh3&stroke=%23BB432C)](https://www.codewars.com/users/s4kunh3)
 
 ## Get in Touch
 Feel free to reach out if you have any questions, suggestions, or just want to takl!
